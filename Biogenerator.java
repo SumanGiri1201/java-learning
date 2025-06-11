@@ -10,7 +10,7 @@ public class Biogenerator {
         scanner.nextLine();
         System.out.println("Enter your hobby: ");
         String hobby = scanner.nextLine();
-        System.out.println("Generate Bio: " + name + " is " + age + " years old " + " and she loves " + hobby);
+        System.out.println("Generate Bio: My Name is  " + name + " and I am  " + age + " years old " + " and I love " + hobby);
         scanner.close();
     }
 }
